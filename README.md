@@ -1,4 +1,4 @@
-# Operating Systems Labs 💻
+# Operating Systems Course 🖥️
 ## Computer Science | AGH 2025
 
 ## Project Description
