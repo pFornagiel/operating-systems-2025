@@ -57,5 +57,4 @@ Refer to each lab's directory for specific usage instructions.
 
 ## Acknowledgements
 
-- AGH University of Science and Technology
-- Operating Systems course instructors
+- [Official Memory Unsafety Anthem](https://www.youtube.com/watch?v=T3a44u0DxCA&list=RDT3a44u0DxCA)
